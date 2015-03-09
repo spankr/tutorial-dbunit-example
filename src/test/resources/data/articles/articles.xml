@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <!-- Fake Articles -->
+    <table name="ARTICLE">
+        <column>ARTICLE_ID</column>
+        <column>LANG_CODE</column>
+        <column>TITLE</column>
+        <column>SUBTITLE</column>
+        <column>Content</column>
+        <column>DATE_AUTHORED</column>
+        <column>DATE_PUBLISHED</column>
+        <!-- Article 01 -->
+        <row>
+            <!-- ARTICLE_ID -->
+            <value>50001</value>
+            <!-- LANG_CODE -->
+            <value>en</value>
+            <!-- TITLE -->
+            <value>AP unveils Spanish Stylebook at Columbia J-School</value>
+            <!-- SUBTITLE -->
+            <value></value>
+            <!-- Content -->
+            <value>NEW YORK -- It started out as an informal memo circulated among reporters and editors for the AP’s Spanish Service to ensure they were consistent in their use of certain words and phrases. More than 10 years later, and after much refinement and expansion of the guidelines, the AP unveiled its first Spanish-language Stylebook Nov. 19.
+“Language is a reflection of a society, its time and its people. When two planes crashed into the twin towers in lower Manhattan the world changed and so did journalism,” explained Ricardo Reif, a supervisor for the Spanish Service who penned that first memo to his colleagues. "For international news agencies it became vital to deal with strange new terms,” such as Taliban, al-Qaida and Humvee.
+The new Manual de Estilo Online de la AP is a robust, Web-based guide to writing well in Spanish. It’s intended for universal use, with a focus on Latin America and the United States, and is optimized for use on mobile devices and tablets.
+To mark the occasion, journalists from Univision and NPR joined AP editors for a lively panel discussion about Spanish writing style Monday night at Columbia University’s Graduate School of Journalism in Manhattan.
+The panel addressed issues ranging from AP’s philosophy on using “illegal immigrant” to social media and entertainment terminology. 
+The event featured as panelists: Isaac Lee, president of news for Univision Communications Inc.; Edward Schumacher-Matos, ombudsman for NPR and founder of Rumbo Newspapers/Meximerica Media, a chain of four Spanish-language dailies in Texas; Sigal Ratner-Arias, entertainment editor, AP Spanish Service, and Tom Kent, AP’s deputy managing editor for standards and production.  Alejandro Manrique, AP deputy editor for Latin America and director of the AP Spanish Service, moderated the discussion.
+            </value>
+            <!-- DATE_AUTHORED -->
+            <null />
+            <!-- DATE_PUBLISHED -->
+            <value>2012-11-20</value>
+        </row>
+        <row>
+            <!-- ARTICLE_ID -->
+            <value>50001</value>
+            <!-- LANG_CODE -->
+            <value>es</value>
+            <!-- TITLE -->
+            <value>AP presenta españoles Stylebook de Columbia de la Escuela de</value>
+            <!-- SUBTITLE -->
+            <value></value>
+            <!-- Content -->
+            <value>NUEVA YORK - Todo empezó como una nota informal distribuido entre los reporteros y editores españoles para el servicio de la AP para asegurar que son consistentes en el uso de ciertas palabras y frases. Más de 10 años después, y después de mucho refinamiento y expansión de las directrices, la AP dio a conocer su primer idioma español Stylebook 19 de noviembre.
+"El lenguaje es el reflejo de una sociedad, su tiempo y su gente. Cuando dos aviones se estrellaron contra las Torres Gemelas en el bajo Manhattan el mundo ha cambiado y también lo hizo el periodismo ", explicó Ricardo Reif, un supervisor del Servicio de españoles que escribió esa nota primero a sus colegas. "Para las agencias internacionales de noticias se convirtió en vital para hacer frente a las nuevas condiciones extrañas", como los talibanes, Al-Qaida y Humvee.
+El nuevo Manual de Estilo en línea de la AP es una solución robusta, basada en web guía para escribir bien en español. Está diseñado para su uso universal, con énfasis en América Latina y los Estados Unidos, y está optimizado para su uso en dispositivos móviles y tabletas.
+Para marcar la ocasión, los periodistas de Univision y NPR unió editores de AP para un debate animado sobre estilo de escritura españoles lunes por la noche en la Escuela de la Universidad de Columbia de Periodismo en Manhattan.
+El panel se abordaron cuestiones que van desde la filosofía de la AP sobre el uso de "inmigrante ilegal" para los medios sociales y la terminología entretenimiento.
+El evento contó como panelistas: Isaac Lee, presidente de noticias de Univision Communications Inc., Edward Schumacher-Matos, defensor del pueblo para NPR y fundador de periódicos RUMBO / Meximerica Media, una cadena de cuatro diarios en español en Texas; Sigal Ratner-Arias , entretenimiento editor, AP españoles Service, y Tom Kent, diputado de AP jefe de redacción de las normas y de producción. Alejandro Manrique, AP subdirector para América Latina y el director del Servicio de AP españoles, moderó el debate.</value>
+            <!-- DATE_AUTHORED -->
+            <null />
+            <!-- DATE_PUBLISHED -->
+            <value>2012-11-20</value>
+        </row>
+        <!-- Article 02 -->
+        <row>
+            <!-- ARTICLE_ID -->
+            <value>50002</value>
+            <!-- LANG_CODE -->
+            <value>en</value>
+            <!-- TITLE -->
+            <value>How Semiconductors Work</value>
+            <!-- SUBTITLE -->
+            <value>Introduction to How Semiconductors Work</value>
+            <!-- Content -->
+            <value>Pellentesque eleifend sollicitudin justo, vitae semper elit. Quisque sit amet massa est. Vestibulum magna dolor, euismod vitae posuere ac, semper vitae tellus. Donec euismod aliquam diam suscipit laoreet. Praesent convallis sapien vel ipsum lacinia, vitae volutpat tortor finibus. Etiam blandit metus vel eros dictum, ac condimentum diam cursus. Etiam est mauris, tincidunt et nulla nec, dignissim bibendum mi. In eget accumsan dolor. Etiam tempus sapien sed eleifend suscipit. Ut ut elit sed urna ullamcorper dignissim.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec vulputate sem id nunc aliquet accumsan. Duis facilisis nulla non purus fermentum, fringilla consequat dolor vehicula. Morbi eleifend risus et purus placerat faucibus. Pellentesque rutrum, velit efficitur posuere placerat, elit lorem dignissim tellus, a placerat sem enim sed sem. In gravida velit eget lectus cursus, ut tempus odio vulputate. Sed ullamcorper diam enim, vitae tristique risus varius ac. Maecenas sit amet erat dui. Aliquam ut egestas mauris. Nullam interdum leo et leo elementum, in euismod tellus gravida. Praesent at dapibus nunc, a venenatis enim. Integer ornare ipsum sit amet ligula porttitor bibendum. Morbi dolor nunc, pretium pretium orci ut, ultricies aliquet ligula. In hac habitasse platea dictumst.
+
+Vivamus consequat felis ac ipsum pretium viverra. Integer viverra non nisl sed vulputate. Ut accumsan non elit ac volutpat. Quisque venenatis sagittis augue, dapibus pretium nunc tincidunt a. Etiam luctus fringilla felis ac pulvinar. Maecenas sed nisl tristique quam fringilla pellentesque at sed ipsum. Sed ut erat in lacus lacinia blandit.
+
+Fusce ut ipsum tincidunt, congue nisl a, elementum nibh. Etiam eleifend commodo consectetur. Nullam lobortis lacus ut neque vulputate, vitae vehicula lorem tincidunt. Mauris tristique venenatis diam vitae mattis. Morbi congue magna elit, vel luctus neque dignissim ut. In hac habitasse platea dictumst. Etiam interdum, nunc vel dapibus ullamcorper, ligula felis luctus mauris, in congue est ipsum vitae diam. Morbi eu lectus a dui porta scelerisque vitae eu dui. Integer ullamcorper enim et accumsan commodo. Fusce mattis est eu orci volutpat, eget placerat dui viverra. Integer venenatis pellentesque sem. Nunc nec maximus lectus. Pellentesque imperdiet orci nec nibh sollicitudin imperdiet. Ut fermentum ipsum eu malesuada semper.
+
+Nullam auctor orci at metus laoreet interdum. Maecenas tellus mauris, tempor ut magna in, varius commodo mauris. Duis aliquet rhoncus justo, vitae porta purus dapibus non. Etiam id massa eu sapien facilisis pretium sit amet nec orci. Morbi hendrerit congue facilisis. Maecenas finibus justo nunc, ut finibus risus congue eget. Nunc in lacus interdum, pellentesque ipsum a, finibus augue. Nullam posuere finibus nisi non rhoncus. Maecenas congue nec eros non eleifend. Nam egestas libero tempus justo pretium aliquam. Etiam felis nisi, aliquam eget est quis, ullamcorper commodo leo.</value>
+            <!-- DATE_AUTHORED -->
+            <value>2012-10-01</value>
+            <!-- DATE_PUBLISHED -->
+            <value>2012-10-01</value>
+        </row>
+
+        <!-- Article 03 -->
+        <row>
+            <!-- ARTICLE_ID -->
+            <value>50003</value>
+            <!-- LANG_CODE -->
+            <value>en</value>
+            <!-- TITLE -->
+            <value>Japanese state invites Indian investment</value>
+            <!-- SUBTITLE -->
+            <value>Japan in the news</value>
+            <!-- Content -->
+            <value>NEW DELHI: Fukuoka Prefecture, a Japanese state, today invited Indian companies to join hands with its firms in areas like automobiles, steel and bio-technology.
+"This is the first time we are heading a business mission to New Delhi. We are looking at mutual cooperation between businessmen of India and Fukuoka Prefecture," Governor of Fukuoka Prefecture Hiroshi Ogawa said at a function here.
+Ogawa is heading a 50-member business delegation to India.
+Delhi and Fukuoka Prefecture had yesterday signed an agreement to collectively work upon housing, management of traffic and improvement of urban environment. A mutual treaty which was earlier signed in 2007 between the two sides was extended.
+"India is an attractive country for us. Thus, our businessmen want to increase business exchanges with your companies," Ogawa said.
+Fukuoka Prefecture offers conducive environment for investors and labour is also available at lesser rates, he added.
+Fukuoka Prefecture's main cities form one of Japan's main industrial centers with major industries operating in areas like automobiles, semiconductors and steel.</value>
+            <!-- DATE_AUTHORED -->
+            <value>2012-11-15</value>
+            <!-- DATE_PUBLISHED -->
+            <value>2012-11-23</value>
+        </row>
+        <row>
+            <!-- ARTICLE_ID -->
+            <value>50003</value>
+            <!-- LANG_CODE -->
+            <value>es</value>
+            <!-- TITLE -->
+            <value>Estado japonés invita inversión india</value>
+            <!-- SUBTITLE -->
+            <value>Japón en las noticias</value>
+            <!-- Content -->
+            <value>NUEVA DELHI: Prefectura de Fukuoka, un estado japonés, invitó hoy a las empresas indias a unirse con sus empresas en áreas como el del automóvil, el acero y la biotecnología.
+"Esta es la primera vez que estamos al frente de una misión de negocios a Nueva Delhi. Estamos buscando la cooperación mutua entre los empresarios de la India y la Prefectura de Fukuoka," Gobernador de Prefectura de Fukuoka Hiroshi Ogawa dijo en una función aquí.
+Ogawa está al frente de una delegación comercial de 50 miembros a la India.
+Delhi y la Prefectura de Fukuoka había firmado ayer un acuerdo para trabajar conjuntamente en la vivienda, la gestión del tráfico y la mejora del medio ambiente urbano. Un tratado mutuo que se firmó a principios de 2007 entre ambas partes se extendió.
+"La India es un país atractivo para nosotros. Así, nuestros empresarios quieren aumentar los intercambios comerciales con sus empresas", dijo Ogawa.
+Fukuoka Prefecture ofrece un ambiente propicio para los inversionistas y el trabajo también está disponible en menores tasas, agregó.
+Principales ciudades de Fukuoka Prefecture forman uno de los principales centros industriales de Japón con las principales industrias que operan en áreas como automóviles, semiconductores y acero.</value>
+            <!-- DATE_AUTHORED -->
+            <value>2012-11-15</value>
+            <!-- DATE_PUBLISHED -->
+            <value>2012-11-23</value>
+        </row>
+        <row>
+            <!-- ARTICLE_ID -->
+            <value>50003</value>
+            <!-- LANG_CODE -->
+            <value>de</value>
+            <!-- TITLE -->
+            <value>Japanische Staat lädt indischen Investitionen</value>
+            <!-- SUBTITLE -->
+            <value>Japan in den Nachrichten</value>
+            <!-- Content -->
+            <value>NEU-DELHI: Fukuoka-Präfektur, eine japanische Staat, heute indische Unternehmen eingeladen, sich die Hände mit seinem Unternehmen in Bereichen wie Automobil-, Stahl-und Bio-Technologie zu verbinden.
+"Dies ist das erste Mal, dass wir an der Spitze einer Business Mission nach New Delhi sind. Wir freuen uns über die Zusammenarbeit zwischen Geschäftsleuten aus Indien und Fukuoka suchen", Gouverneur der Präfektur Fukuoka Hiroshi Ogawa sagte auf einer Funktion.
+Ogawa leitet ein 50-köpfigen Wirtschaftsdelegation nach Indien.
+Delhi und Fukuoka-Präfektur hatte gestern eine Vereinbarung, um gemeinsam auf Gehäuse, Management des Verkehrs und die Verbesserung der städtischen Umwelt zu arbeiten unterzeichnet. Eine gegenseitige Verträge, die früher im Jahr 2007 zwischen den beiden Seiten unterzeichnet wurde verlängert wurde.
+"Indien ist ein attraktives Land für uns. So, unsere Geschäftsleute Business Austausch mit Ihrem Unternehmen erhöhen wollen", Ogawa sagte.
+Fukuoka-Präfektur bietet förderliches Umfeld für Investoren und Arbeitskräfte ist auch mit geringeren Raten zur Verfügung, fügte er hinzu.
+Fukuoka-Präfektur wichtigsten Städte bilden eine der wichtigsten industriellen Japans Zentren mit großen Industrien, die in Bereichen wie Automobil, Halbleiter und Stahl.</value>
+            <!-- DATE_AUTHORED -->
+            <value>2012-11-15</value>
+            <!-- DATE_PUBLISHED -->
+            <value>2012-11-23</value>
+        </row>
+        <row>
+            <!-- ARTICLE_ID -->
+            <value>50003</value>
+            <!-- LANG_CODE -->
+            <value>ja</value>
+            <!-- TITLE -->
+            <value>日本国家は、インドへの投資を誘う</value>
+            <!-- SUBTITLE -->
+            <value>ニュースで日本</value>
+            <!-- Content -->
+            <value>ニューデリー：福岡県、日本の状態が、今日は自動車、鉄鋼、バイオテクノロジーなどの分野で、その企業と手を携えてインド企業をお招きしました。
+"これは我々がニューデリーにビジネスミッションを見出しているのは初めてだ。我々はインドと福岡県のビジネスマンの間での相互協力を見て、"福岡県小川博の知事はここで関数で語った。
+小川さんはインドに50メンバービジネス代表団を率いている。
+デリーと福岡県は昨日総称交通と都市環境の改善、住宅、管理に基づいて作業するという合意に署名していた。以前、両国間で2007年に締結された相互条約は延長された。
+"インドは我々にとって魅力的な国であるため、私たちのビジネスマンがあなたの会社とのビジネス交流を増やしたい"と小川氏は言う。
+福岡県は、投資家のために資する環境を提供し、労働者がより低いレートでも利用可能である、と彼は付け加えた。
+福岡県の主要都市では、自動車、半導体、鉄鋼などの分野で動作し、主要産業と日本の主要な工業中心地のひとつを形成している。</value>
+            <!-- DATE_AUTHORED -->
+            <value>2012-11-15</value>
+            <!-- DATE_PUBLISHED -->
+            <value>2012-11-23</value>
+        </row>
+    </table>
+</dataset>

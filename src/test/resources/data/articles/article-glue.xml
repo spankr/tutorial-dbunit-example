@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <!-- Tying articles to authors and other lovy dovey stuff -->
+
+    <!-- Article-Author linking -->
+    <AUTHOR_LINK LINK_ID="[null]" ARTICLE_ID="50001" AUTHOR_ID="9001" PRIORITY="1" />
+    <AUTHOR_LINK LINK_ID="[null]" ARTICLE_ID="50002" AUTHOR_ID="9002" PRIORITY="2" />
+    <AUTHOR_LINK LINK_ID="[null]" ARTICLE_ID="50002" AUTHOR_ID="9001" PRIORITY="1" />
+</dataset>

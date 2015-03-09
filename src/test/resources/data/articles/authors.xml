@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>
+    <!-- Fake author Information -->
+    <table name="ARTICLE_AUTHOR">
+        <column>INTERNAL_ID</column>
+        <column>AUTHOR_ID</column>
+        <column>LANG_CODE</column>
+        <column>FIRST_NAME</column>
+        <column>LAST_NAME</column>
+        <column>BIOGRAPHY</column>
+        <!-- Author 01: Fernando Trinciante -->
+        <row>
+            <value>1</value>
+            <!-- AUTHOR_ID -->
+            <value>9001</value>
+            <!-- LANG_CODE -->
+            <value>en</value>
+            <!-- FIRST_NAME -->
+            <value>Fernando</value>
+            <!-- LAST_NAME -->
+            <value>Trinciante</value>
+            <!-- BIOGRAPHY -->
+            <value>Fernando Trinciante is a rather infamous author whose articles have been frequently mistaken as
+                source code. That's not to say that he hasn't won some awards for his articles. After a submission from
+                one of his colleagues, Fernando took home the trophy for the IOCCC International Obfuscated Code
+                Challenge.
+            </value>
+        </row>
+        <row>
+            <value>2</value>
+            <!-- AUTHOR_ID -->
+            <value>9001</value>
+            <!-- LANG_CODE -->
+            <value>en-US</value>
+            <!-- FIRST_NAME -->
+            <value>Frednando</value>
+            <!-- LAST_NAME -->
+            <value>Trinsomething</value>
+            <!-- BIOGRAPHY -->
+            <value>Fernando Trinciante is a nefarious author whose articles have been mistaken as code. That's not to
+                say that he hasn't won some awards for his articles. After a submission from one of his colleagues,
+                Frednando took home the trophy for the International Obfuscated Code Challenge.
+            </value>
+        </row>
+        <row>
+            <value>3</value>
+            <!-- AUTHOR_ID -->
+            <value>9001</value>
+            <!-- LANG_CODE -->
+            <value>es</value>
+            <!-- FIRST_NAME -->
+            <value>Fernando</value>
+            <!-- LAST_NAME -->
+            <value>Trinciante</value>
+            <!-- BIOGRAPHY -->
+            <value>Fernando Trinciante es un autor más bien infame cuyos artículos han sido frecuentemente confundido
+                con el código fuente. Eso no quiere decir que él no ha ganado varios premios por sus artículos. Después
+                de una presentación de uno de sus colegas, Fernando se llevó a casa el trofeo para el Desafío
+                Internacional IOCCC código ofuscado. </value>
+        </row>        
+        <row>
+            <value>4</value>
+            <!-- AUTHOR_ID -->
+            <value>9001</value>
+            <!-- LANG_CODE -->
+            <value>ja</value>
+            <!-- FIRST_NAME -->
+            <value>Fernando</value>
+            <!-- LAST_NAME -->
+            <value>Trinciante</value>
+            <!-- BIOGRAPHY -->
+            <value>フェルナンドTrincianteは、その記事を頻繁にソースコードと誤認されているむしろ悪名高い作家です。それは彼が彼の記事のためにいくつかの賞を受賞していないと言うことではないのです。彼の同僚の一人から提出後、フェルナンドは家IOCCC国際難読コードチャレンジトロフィーを取った。
+            </value>
+        </row>
+
+        <!-- Author 02: Alberto Alvarez -->
+        <row>
+            <value>5</value>
+            <!-- AUTHOR_ID -->
+            <value>9002</value>
+            <!-- LANG_CODE -->
+            <value>en</value>
+            <!-- FIRST_NAME -->
+            <value>Alberto</value>
+            <!-- LAST_NAME -->
+            <value>Alvarez</value>
+            <!-- BIOGRAPHY -->
+            <value>Alberto writes SEO articles for businesses that want to see their Google search rankings surge. Her articles have appeared in a number of e-zine sites, including &lt;a href="http://EzineArticles.com"&gt;EzineArticles.com&lt;/a&gt;, &lt;a href="http://ArticlesBase.com"&gt;ArticlesBase.com&lt;/a&gt;, &lt;a href="http://HubPages.com"&gt;HubPages.com&lt;/a&gt; and &lt;a href="http://TRCB.com"&gt;TRCB.com&lt;/a&gt;. She contributes articles about SEO techniques regularly to Site-Reference Newletter.com. Her articles focus on balancing informative with SEO needs--but never at the expense of providing an entertaining read. Learn more about how Jane's SEO articles could grow your business by visiting her blog at JaneDoeSEOArticlesBlog.com.</value>
+        </row>
+
+        <row>
+            <value>6</value>
+            <!-- AUTHOR_ID -->
+            <value>9002</value>
+            <!-- LANG_CODE -->
+            <value>es</value>
+            <!-- FIRST_NAME -->
+            <value>Alberto</value>
+            <!-- LAST_NAME -->
+            <value>Alvarez</value>
+            <!-- BIOGRAPHY -->
+            <value>Alberto escribe artículos de SEO para las empresas que quieren ver a su búsqueda de Google oleada clasificación. Sus artículos han aparecido en una serie de e-zine sitios, incluyendo &lt;a href="http://EzineArticles.com"&gt;EzineArticles.com&lt;/a&gt;, &lt;a href="http://ArticlesBase.com"&gt;ArticlesBase.com&lt;/a&gt;, &lt;a href="http://HubPages.com"&gt;HubPages.com&lt;/a&gt; y &lt;a href="http://TRCB.com"&gt;TRCB.com&lt;/a&gt;. Ella escribe artículos sobre las técnicas de SEO regularmente a Newletter.com Sitio de Referencia. Sus artículos se centran en el equilibrio informativo con las necesidades de SEO - pero nunca a costa de ofrecer una lectura entretenida. Más información sobre la cantidad de artículos de Jane SEO puede hacer crecer su negocio, visite su blog en JaneDoeSEOArticlesBlog.com.</value>
+        </row>
+        <row>
+            <value>7</value>
+            <!-- AUTHOR_ID -->
+            <value>9002</value>
+            <!-- LANG_CODE -->
+            <value>de</value>
+            <!-- FIRST_NAME -->
+            <value>Alberto</value>
+            <!-- LAST_NAME -->
+            <value>Alvarez</value>
+            <!-- BIOGRAPHY -->
+            <value>Alberto schreibt SEO Artikel für Unternehmen, die ihre Google Suche Rankings Anstieg sehen wollen. Ihre Artikel sind in einer Reihe von e-zine Standorten, darunter &lt;a href="http://EzineArticles.com"&gt;EzineArticles.com&lt;/a&gt;, &lt;a href="http://ArticlesBase.com"&gt;ArticlesBase.com&lt;/a&gt;, &lt;a href="http://HubPages.com"&gt;HubPages.com&lt;/a&gt; und &lt;a href="http://TRCB.com"&gt;TRCB.com&lt;/a&gt; erschienen. Sie trägt Artikel über SEO-Techniken regelmäßig Site-Referenz Newletter.com. Ihre Artikel über den Ausgleich informativ mit SEO Bedürfnisse konzentrieren - aber nie auf Kosten der Bereitstellung einer unterhaltsamen Lektüre. Erfahren Sie mehr darüber, wie Janes SEO Artikel könnte Ihr Unternehmen, indem Sie ihrem Blog JaneDoeSEOArticlesBlog.com wachsen.</value>
+        </row>
+        <row>
+            <value>8</value>
+            <!-- AUTHOR_ID -->
+            <value>9002</value>
+            <!-- LANG_CODE -->
+            <value>ja</value>
+            <!-- FIRST_NAME -->
+            <value>Alberto</value>
+            <!-- LAST_NAME -->
+            <value>Alvarez</value>
+            <!-- BIOGRAPHY -->
+            <value>アルベルトは自分のGoogle検索ランキング急上昇を見たい企業のためのSEOの記事を書いています。彼女の記事は&lt;a href="http://EzineArticles.com"&gt;EzineArticles.com&lt;/a&gt;, &lt;a href="http://ArticlesBase.com"&gt;ArticlesBase.com&lt;/a&gt;, &lt;a href="http://HubPages.com"&gt;HubPages.com&lt;/a&gt;と&lt;a href="http://TRCB.com"&gt;TRCB.com&lt;/a&gt;含むのe-zineのサイトの数に登場している。彼女はサイト参照Newletter.comに定期的にSEOのテクニックについての記事を貢献しています。彼女の記事はSEOのニーズに有益なバランスに焦点を当てる - 決して面白い読み取りを提供を犠牲にして。 JaneのSEOの記事はJaneDoeSEOArticlesBlog.comで彼女のブログを訪問することによってあなたのビジネスを成長させることができるかについては、こちらをご覧ください。</value>
+        </row>
+    </table>
+</dataset>

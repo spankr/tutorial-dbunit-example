@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dataset>    
+    <!-- Alert Types, pretty standard -->
+    <ALERT_TYPE ALERT_TYPE_ID="10" ALERT_NAME="simple"/>
+    <ALERT_TYPE ALERT_TYPE_ID="11" ALERT_NAME="text"/>
+    <ALERT_TYPE ALERT_TYPE_ID="12" ALERT_NAME="option"/>
+    
+    <!-- Expecting empty data here! -->
+    <USER_ANSWER />
+</dataset>
